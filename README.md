@@ -1,3 +1,0 @@
-# mikurutgbot
-
-nice project
